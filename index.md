@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+## Welcome to SunRoute
 
-You can use the [editor on GitHub](https://github.com/TiagoVerhaeghe/sunroute/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+SunRoute is a play-to-earn NFT career simulator metaverse where you can be part of the working system, build your own legacy, craft unique materials and items, trade in the local marketplace
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The gameplay of SunRoute is created to be both simple and complex at the same time. The player can participate in a preferred way. The player can play as a:
+Worker
+Chief
+Provider
+Intermediate
+In every role, the players can play with different environments, offering one of a kind experiences. The involvement would influence the profit earned. All players earn key benefits with activity earning greater rewards.
+### The main story line
 
-### Markdown
+You'll revive a other worker legacy, earning some of his abilities, born on a random county, with abilities and evolutions yet to discover.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Right from start of your childhood there will be decisions to make. Everything that you choose will influence your adulthood.
 
-```markdown
-Syntax highlighted code block
+You can chose your career path (specific or alternative) and learn the profession your own way or connect with mentors and teachers.
 
-# Header 1
-## Header 2
-### Header 3
+Every friend that you will make in the process can leverage your abilities and sectors of life.
 
-- Bulleted
-- List
+After death: Decide to leave your legacy, or you'll be forgotten. Found in the graveyard of your home land, others will have to find you in the darkest place in the overworld.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TiagoVerhaeghe/sunroute/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+First Job Additions: Trucker, Fisherman, Miner, Entrepreneur, Hunter.
